@@ -1,5 +1,16 @@
 @import "tailwindcss";
+@font-face {
+  font-family: 'Inter';
+  font-weight: 100 900; /* Variable font range */
+  font-display: swap;
+  font-style: normal;
+  src: url('./assets/OTF/ClashGrotesk-Regular.otf') format('woff2');
+}
 
+
+@theme {
+  --font-inter: "Inter", sans-serif;
+}
 body{
-  background: #000;
+  background: #0A0A0A;
 }
