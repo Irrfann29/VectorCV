@@ -22,7 +22,7 @@ export default function Sidebar() {
       {/* Logo */}
       <div className="px-5 py-5 border-b border-border">
         <div className="font-syne font-extrabold text-lg tracking-tight">
-          Resume<span className="text-accent">IQ</span>
+          Vector<span className="text-accent">CV</span>
         </div>
         <div className="text-xs text-ink-3 mt-0.5">Career Intelligence Platform</div>
       </div>
